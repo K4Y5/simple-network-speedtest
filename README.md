@@ -51,7 +51,7 @@ wget -qO- nws.sh | bash -s -- -r region_name
 
 ### Example:
 ```
-wget -qO- nws.sh | bash -s -- -r india
+wget -qO- https://raw.githubusercontent.com/K4Y5/simple-network-speedtest/refs/heads/master/speed.sh | bash -s -- -r india
 ```
 
 ## Sample Output (Global)
